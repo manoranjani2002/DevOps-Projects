@@ -5,12 +5,12 @@ variable "aws_region" {
 
 variable "aws_access_key" {
   description = "AWS access key ID"
-  default     = "AKIA5C6236ESHXXHUO47"
+  default     = "Your Access key"
 }
 
 variable "aws_secret_key" {
   description = "AWS secret access key"
-  default     = "/7taWtvcBOrhS97LGPFUQ/GJUIyOgorfbF8FqWTv"
+  default     = "Your secret access key"
 }
 
 variable "instance_count" {
