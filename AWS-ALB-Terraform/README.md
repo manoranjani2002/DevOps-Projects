@@ -64,13 +64,15 @@ To deploy the infrastructure:
 ### 3. Initialize Terraform by running `terraform init`.
 
    
-![Screenshot (158)](https://github.com/safuvanh/DevOps_projects/assets/156053146/50e8dba0-dabd-4836-a85e-cc205b94b3d2)
+![Screenshot (158)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/c00ab3bb-2202-4aed-9d20-43172ece8a09)
+
 
 
 ### 4. Review the execution plan by running `terraform plan`.
 
 
-![Screenshot (160)](https://github.com/safuvanh/DevOps_projects/assets/156053146/f11cd95c-370c-4074-9a37-227d0803e688)
+![Screenshot (160)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/13bb7a43-8a29-4324-9b25-2a64fcd0a0ca)
+
 
 
 ### 5. If the plan looks good, apply the changes by running  `terraform apply`.
@@ -78,7 +80,8 @@ To deploy the infrastructure:
 
 
 
-![Screenshot (163)](https://github.com/safuvanh/DevOps_projects/assets/156053146/dc17ddfc-0343-4467-9b34-90af520a218f)
+![Screenshot (163)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/e07a5398-1881-45b1-8f8a-ecce42dc23d9)
+
 
 
 
@@ -99,20 +102,20 @@ terraform output load_balancer_dns_name
 
 ```
 
-![Screenshot (164)](https://github.com/safuvanh/DevOps_projects/assets/156053146/acf118c3-50f5-4fee-aff5-d3095a187e89)
+
+
+![Screenshot (165)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/10e11f82-fbd0-48d3-8ac9-10eb7d9f785e)
 
 
 
 
-![Screenshot (165)](https://github.com/safuvanh/DevOps_projects/assets/156053146/46d52a26-4753-47f7-8c41-128ccad367a5)
+![Screenshot (166)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/ece67a09-3741-4be9-9a5a-fb3229f9339e)
 
 
 
-![Screenshot (166)](https://github.com/safuvanh/DevOps_projects/assets/156053146/843dfe1c-2660-47fe-8eac-83752c770ba1)
 
+![Screenshot (167)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/be914cc1-c9c2-4429-b97e-77c48d352edb)
 
-
-![Screenshot (167)](https://github.com/safuvanh/DevOps_projects/assets/156053146/3aad8d41-07bc-4840-b0ed-ce1cc747fb67)
 
 
 
@@ -133,5 +136,5 @@ You can customize various aspects of the infrastructure by modifying the Terrafo
 
 To avoid incurring unnecessary charges, remember to destroy the resources once you're done experimenting. You can do this by running `terraform destroy` and confirming the action when prompted.
 
-![Screenshot (170)](https://github.com/safuvanh/DevOps_projects/assets/156053146/fc5df769-50bf-4cbe-ad41-1b231d28af94)
+![Screenshot (170)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/2a7e6df8-d2c1-43ae-9850-bbfdb7081149)
 
