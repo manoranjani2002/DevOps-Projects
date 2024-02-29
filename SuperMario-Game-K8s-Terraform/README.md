@@ -86,6 +86,8 @@ Before you begin, ensure you have the following installed:
    ```
    apt install docker.io -y
    usermod -aG docker "your username"
+   newgrp docker
+   
    ```
 
    ![Screenshot 2024-02-29 154737](https://github.com/safuvanh/DevOps-Projects/assets/156053146/3af8f183-3ebb-4a7a-a7bd-2ce377b1ecdd)
