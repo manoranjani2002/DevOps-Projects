@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+
+    
+    stages {
+        stage('Git Clone') {
+            steps {
+                git branch: 'main', url: 'https://github.com/safuvanh/Zomato-React-App.git'
+            }
+        }
+        
+        stage('Install dependencies') {
+            steps {
+                sh 'npm install' 
+            }
+        }
+        
+        stage('Build') {
+            steps {
+                sh 'npm run build' 
+            }
+        }
+        
+        stage('Deploy') {
+            steps {
+                sh 'cp -r build/* /var/www/html ' 
+            }
+        }
+    }
+}
