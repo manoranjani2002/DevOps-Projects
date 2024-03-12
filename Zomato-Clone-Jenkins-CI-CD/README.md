@@ -90,22 +90,22 @@ The CI/CD pipeline consists of the following stages:
 
      ![Screenshot (236)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/22a318c9-2e85-4ce2-9188-ef55c59ae4b3)
 
-   - Now , we need to configure github hook trigger in pipeline for CI/CD performs
+   - Now , we need to configure github hook trigger in pipeline for Automatic run pipeline when code updating  
 
      ![Screenshot (231)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/a89ed828-8f0a-4df1-b239-81fa669edcc3)
 
-   - Create a webhook on github repo settings
+   - Create a webhook on github repository settings
    - Add url `https://<instance_ip>:8080/github-webhook/`
    - content type - `application/json`
 
 
      ![Screenshot (238)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/8e885302-2459-4da6-a245-e8cf81ef82d1)
 
-   - Then change the source code of React App for justify the CI/CD performs
+   - Then change the source code of React App 
 
      ![Screenshot (239)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/1096e05e-e8f9-43ba-9ba0-c49bbbbea8b7)
 
-   - Commit changes, it will new build the pipeline automatically
+   - Commit changes, it will run the pipeline automatically
 
      ![Screenshot (240)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/9069316c-53a3-44d0-a411-3180a7a8e761)
 
