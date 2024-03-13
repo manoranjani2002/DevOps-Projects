@@ -49,7 +49,7 @@ To learn more about OpenShift, you can refer to the [OpenShift documentation](ht
 
 - Launch an ubuntu instance and connect using ssh
 - create shell script for configure Openshift CLI
-- vim `openshift.sh`**
+- vim `openshift.sh`
 
    
    ![Screenshot (254)](https://github.com/safuvanh/DevOps-Projects/assets/156053146/8b59fb65-ca79-482d-8006-056ef4883979)
