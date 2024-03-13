@@ -1,6 +1,9 @@
 # Zomato Clone React App CI/CD Pipeline
 
-This project sets up a Continuous Integration and Continuous Deployment (CI/CD) pipeline for the Zomato Clone React App using Jenkins.
+**This project sets up a Continuous Integration and Continuous Deployment (CI/CD) pipeline for the Zomato Clone React App using Jenkins.**
+
+![jenko-nodejspng](https://github.com/safuvanh/DevOps-Projects/assets/156053146/8b676495-0754-4205-aea4-461ffbdb2e2d)
+
 
 ## Overview
 
