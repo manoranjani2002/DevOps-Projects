@@ -1,6 +1,9 @@
 # Deployment of Static Website to AWS S3 Bucket using GitHub Workflows
 
-This project demonstrates how to automate the deployment of a static website built with CSS, HTML, and JavaScript to an AWS S3 Bucket using GitHub Workflows.
+**This project demonstrates how to automate the deployment of a static website built with CSS, HTML, and JavaScript to an AWS S3 Bucket using GitHub Workflows.**
+
+![2u2l30tmslb8iq0cctt2](https://github.com/safuvanh/DevOps-Projects/assets/156053146/070e6447-6080-4aac-b5d5-f4afda30fafe)
+
 
 ## Overview
 
