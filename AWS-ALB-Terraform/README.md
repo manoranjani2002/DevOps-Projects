@@ -1,6 +1,10 @@
 # AWS Application Loadbalancer Automation - Terraform
 
-This project demonstrates how to automate the provisioning of an AWS Application Load Balancer (ALB) along with EC2 instances using Terraform.
+**This project demonstrates how to automate the provisioning of an AWS Application Load Balancer (ALB) along with EC2 instances using Terraform.**
+
+![1_SMc2r77xp9W6c1oFBPMTgA](https://github.com/safuvanh/DevOps-Projects/assets/156053146/25e34806-78a1-4e23-b621-bad0a265951b)
+
+
 
 ## Terraform
 Terraform is an open-source Infrastructure as Code (IaC) tool created by HashiCorp. It allows you to define and manage your infrastructure as code, enabling you to provision and manage resources across various cloud providers and service providers in a declarative manner. it is used primarily by DevOps teams to automate various infrastructure tasks. The provisioning of cloud resources, for instance, is one of the main use cases of Terraform
