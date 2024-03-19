@@ -76,11 +76,12 @@ Nodes are individual instances of the Docker engine that control your cluster an
   sudo chown $(id -u):$(id -g) $HOME/.kube/config
 
   ```
-  <br>
-  Alternatively, if you are the root user, you can run:
+  Alternatively, if you are the root user, you can run 
   ```
-   export KUBECONFIG=/etc/kubernetes/admin.conf
-   ```
+  export KUBECONFIG=/etc/kubernetes/admin.conf
+  
+  ```
+  
 - You can get the cluster info using the following command.`kubectl cluster-info `
 
   ![Screenshot 2024-03-19 004838](https://github.com/safuvanh/K8S-vs-DockerSwarm/assets/156053146/5cbf8b9d-7f58-41a4-af0a-a05046c103c9)
