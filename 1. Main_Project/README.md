@@ -2,7 +2,7 @@
 
 ## Overview
 
-**This project is a demonstration of Fully automated End-to-End DevOps workflow for deploying and managing a cloud-native application using a variety of tools and technologies including GitHub, Terraform, AWS, Ansible, Jenkins, Maven, Trivy, Docker,Cri-o and Kubernetes.** <br><br>
+**This project is a demonstration of Fully automated DevOps workflow for deploying java application using a variety of tools and technologies including GitHub, Terraform, AWS, Ansible, Jenkins, Maven, Trivy, Docker,Cri-o and Kubernetes.** <br><br>
 
 ![444](https://github.com/safuvanh/DevOps_Main_Project-1/assets/156053146/a06591b0-6dae-4ede-9f49-f2b1bbb81eff)
 
