@@ -18,7 +18,7 @@
 
 
 **Welcome to my DevOps-Projects Repository!..<br>
-  I'm Safuvan, an enthusiastic learner with a keen interest in pursuing a career as a Cloud & DevOps engineer. This repository documents my journey from a beginner to an aspiring 
+  I'm Manoranjani, an enthusiastic learner with a keen interest in pursuing a career as a Cloud & DevOps engineer. This repository documents my journey from a beginner to an aspiring 
   professional in the realm of DevOps and cloud technologies. Through hands-on practice and exploration of various DevOps tools, I'm embarking on a transformative journey aimed at 
   realizing my aspirations in Cloud & DevOps engineering. Join me as I navigate through learning experiences, challenges, and growth opportunities on this exciting path towards becoming 
   a proficient Cloud & DevOps practitioner.**
